@@ -7,7 +7,12 @@ A lo largo de mi trayectoria, he adquirido un amplio conocimiento en diversas á
 Además, me considero una persona colaborativa y orientada al trabajo en equipo. Disfruto de la oportunidad de colaborar con otros profesionales talentosos, donde puedo aportar mis conocimientos y experiencias para lograr resultados sobresalientes.
 
 Si está buscando a alguien motivado y con sed de conocimiento en el campo de la tecnología, estaré encantado de colaborar con usted. 
-##
+### Conocimientos
+Javascript|Typescript|React|Next|NestJs|Express|PostgreSQL|SASS|Redux|HTML|CSS|MySql|MongoDB
+
+### Contacto
+LinkedIn: Hernán Alexander Castillo (www.linkedin.com/in/hernán-alexander-castillo-araujo-977150215)
+Email: hernan98car@gmail.com
 <!--
 **Mr-Hache/Mr-Hache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
