@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hola, soy Mr-Hache 👋
+##
+Un apasionado por la tecnología y creyente de que nunca dejaré de aprender.
+Acerca de mí
+##
 <!--
 **Mr-Hache/Mr-Hache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
