@@ -11,7 +11,7 @@ Si está buscando a alguien motivado y con sed de conocimiento en el campo de la
 Javascript|Typescript|React|Next|NestJs|Express|PostgreSQL|SASS|Redux|HTML|CSS|MySql|MongoDB
 
 ### Contacto
-LinkedIn: Hernán Alexander Castillo (www.linkedin.com/in/hernán-alexander-castillo-araujo-977150215)
+LinkedIn: Hernán Alexander Castillo (www.linkedin.com/in/hernan-alexander-castillo-araujo)
 Email: hernan98car@gmail.com
 <!--
 **Mr-Hache/Mr-Hache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
